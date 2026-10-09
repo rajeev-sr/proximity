@@ -1,0 +1,8 @@
+# Runtime dependencies (tested with Python 3.12)
+fastapi==0.142.2
+starlette==1.7.0
+pydantic==2.13.5
+uvicorn==0.54.0
+numpy==2.5.3
+scipy==1.18.1
+python-multipart==0.0.32
